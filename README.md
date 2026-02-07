@@ -6,7 +6,7 @@ This repository captures the things engineers usually learn **after** incidents,
 
 ## Why This Exists
 
-Most bugs don’t come from complex logic — they come from:
+Most bugs don’t come from complex logic. They come from:
 - missing headers
 - weak validation
 - poor error handling
@@ -49,9 +49,7 @@ Example:
 ## Philosophy
 
 - Framework-agnostic
-- Practical over theoretical
-- No vendor lock-in
-- No fluff
+- Practical
 
 ## Contributions
 
