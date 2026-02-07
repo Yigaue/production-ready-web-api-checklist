@@ -56,7 +56,7 @@ Example:
 ## Contributions
 
 Contributions are welcome.  
-Please read [CONTRIBUTING.md](`CONTRIBUTIION`)[ before submitting a PR.
+Please read [CONTRIBUTING.md](CONTRIBUTIION) before submitting a PR.
 
 ## License
 
