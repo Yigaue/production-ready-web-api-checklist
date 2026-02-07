@@ -1,5 +1,10 @@
 # Production-Ready Web & API Checklist
 
+![GitHub stars](https://img.shields.io/github/stars/Yigaue/production-ready-web-api-checklist?style=flat-square)
+![License](https://img.shields.io/github/license/Yigaue/production-ready-web-api-checklist?style=flat-square)
+![Last Updated](https://img.shields.io/github/last-commit/Yigaue/production-ready-web-api-checklist?style=flat-square)
+
+
 A comprehensive, framework-agnostic checklist for building **secure, scalable, and maintainable** web and API applications.
 
 This repository captures the things engineers usually learn **after** incidents, outages, security reviews, or painful production bugs.
